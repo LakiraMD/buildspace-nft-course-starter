@@ -64,7 +64,13 @@
 .opensea-button {
   background-color: rgb(32, 129, 226);
 }
-
+.process{
+  font-size: 1.5em;
+  color: #fff;
+}
+.process a, .progress a:visited{
+  color: #fff;
+}
 .mint-count {
   color: white;
   font-size: 18px;
