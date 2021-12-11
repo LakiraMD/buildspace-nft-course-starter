@@ -6,7 +6,7 @@ import myEpicNft from './utils/MyEpicNFT.json';
 
 const TWITTER_HANDLE = 'Lakira_md';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = 'https://testnets.opensea.io/collection/squarenft-tbt6ah7cgb';
+const OPENSEA_LINK = 'https://testnets.opensea.io/collection/tonadonft';
 const TOTAL_MINT_COUNT = 50;
 
 // I moved the contract address to the top for easy access.
